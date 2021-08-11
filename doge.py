@@ -4,7 +4,7 @@ import json
 from updateconf import updatenow
 from sharedcommands import *
 
-TOKEN = "ODAyMjUxNjkyNjg2ODM1Nzcz.YAshHA.QVyz6S23IKPQmNooVyupAzHq4Nk"
+TOKEN = ""
 bot = commands.Bot(command_prefix="#", help_command=None)
 
 
